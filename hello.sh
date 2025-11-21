@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello DevOps from Jenkins!"
+echo "Hello DevOps from Jenkins - automated build!"
